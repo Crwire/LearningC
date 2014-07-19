@@ -1,7 +1,7 @@
 ==========================================
 C for yourself: Description
 ==========================================
-This folder contains most of the programming exercises and programming problems found within the book "C for yourself". Majority of them are exactly as they are in the book, however some of them have my own personal extensions to test the capabilities of the C programming language. 
+This folder contains most of the programming exercises and programming problems found within the book "C for yourself" by Richard P. Halpern. Majority of them are exactly as they are in the book, however some of them have my own personal extensions to test the capabilities of the C programming language. 
 
 For those interested in C, there is a small readme in each folder describing what type of techniques are in there. Hopefully someone who's interested in picking up the C langauge finds these exemplar programmes useful. 
 
