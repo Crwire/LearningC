@@ -1,0 +1,11 @@
+==========================================
+C for yourself: Description
+==========================================
+This folder contains most of the programming exercises and programming problems found within the book "C for yourself". Majority of them are exactly as they are in the book, however some of them have my own personal extensions to test the capabilities of the C programming language. 
+
+For those interested in C, there is a small readme in each folder describing what type of techniques are in there. Hopefully someone who's interested in picking up the C langauge finds these exemplar programmes useful. 
+
+-------------------------------------------
+Purpose
+-------------------------------------------
+The reason that these files exist is for me to get up to scratch on the C langauge for programming my Pebble SmartWatch for my summer dissertation project in MSc Human-Computer Interaction. If you wish to know more or are looking to hire emerging talent, please get in touch.
